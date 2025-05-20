@@ -17,7 +17,7 @@ Support internal tooling and legacy infrastructure assessments.
 About COBOL74
 COBOL74 refers to the ANSI COBOL standard released in 1974, a widely adopted version during the height of COBOL’s use in enterprise environments. It lacks many of the features introduced in later standards (like COBOL85 or COBOL2002), making this translation both a technical challenge and an informative exercise.
 
-Disclaimer
+# Disclaimer
 This is not a production-ready implementation and should not be used for commercial or critical infrastructure. The repository is intended solely for experimental, testing, and research purposes.
 
 Structure
