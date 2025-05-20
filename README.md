@@ -1,9 +1,9 @@
-# COBOL74-Banking
+# COBOL74-Banking-CardDemo
 Amazon COBOL74 Translation Repository
-Overview
+# Overview
 This repository contains a translated version of an original Amazon project (https://github.com/aws-samples/aws-mainframe-modernization-carddemo), converted into COBOL74 for testing and validation purposes. It serves as a technical exploration of legacy system compatibility, with a focus on how modern software concepts can be expressed within the constraints of historical programming languages.
 
-Purpose
+# Purpose
 The primary objective of this repository is to:
 
 Evaluate the feasibility of porting modern logic into legacy COBOL74 environments.
