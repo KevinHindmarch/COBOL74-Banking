@@ -25,12 +25,10 @@ src/ – Contains COBOL74 source files.
 
 Getting Started
 To run or test this code:
-
-Use a COBOL74-compatible compiler or emulator (e.g., OpenCOBOL/GnuCOBOL with legacy settings).
-
-Follow the setup guide in docs/SETUP.md.
-
-Run the test suite using the provided batch scripts in the tests/ directory.
+Clone Repo
+Use a IDE or COBOL74-compatible compiler or emulator (e.g., OpenCOBOL/GnuCOBOL with legacy settings).
+???
+Profit
 
 Contributions
 This project is not open to external contributions at this time. Internal teams may open issues for bug reports or feature discussion.
